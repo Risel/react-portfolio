@@ -1,0 +1,39 @@
+.app__about {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.app__profiles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.app__profile-item {
+  width: 205px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 2rem;
+
+  img {
+    margin-top: 1rem;
+    width: 100%;
+    height: 170px;
+    border-radius: 15px;
+  }
+  
+  @media  screen and (min-width: 2000px) {
+    width: 400px;
+    margin: 2rem 4rem;
+
+    img {
+      height: 340px;
+    }
+    
+  }
+}
