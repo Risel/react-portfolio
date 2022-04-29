@@ -5,15 +5,14 @@ const SocialMedia = () => {
   return (
     <div className = "app__social">
       <div>
-        <SiTelegram/>
+        <a href="https://t.me/emptyfielddd" target="_blank"><SiTelegram/></a>
       </div>
       <div>
-        <SiInstagram/>
+        <a href="https://instagram.com/emptyfielddd?igshid=YmMyMTA2M2Y=" target="_blank"><SiInstagram/></a>
       </div>
       <div>
-        <SiVk/>
+        <a href="https://vk.com/r1sel" target="_blank"><SiVk/></a>
       </div>
-      
     </div>
   );
 };
