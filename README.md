@@ -1,2 +1,21 @@
-﻿# react-portfolio
-First big project on React JS. I realised here small backend with Sanity.io. Reuseable design components in front-end.
+# Portfolio
+
+
+## Features
+
+- Adaptive design
+- Mobile version
+- React hooks 
+- Layout with using High Order Components
+- CMS for adding content
+
+
+## Production Build
+#### https://roman-site-portfolio.netlify.app/
+
+
+## Tech Stack
+
+ **React.js**, **SCSS**, **Framer-Motion**
+
+
