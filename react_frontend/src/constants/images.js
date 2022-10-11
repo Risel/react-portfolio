@@ -11,6 +11,7 @@ import about2 from '../assets/about2.jpg'
 import about3 from '../assets/about3.jpg'
 import email from '../assets/email.png'
 import mobile from '../assets/mobile.png'
+import typescript from '../assets/typescript.png'
 
 export default {
   logo,
@@ -25,5 +26,6 @@ export default {
   about2,
   about3,
   email,
-  mobile
+  mobile,
+  typescript
 }

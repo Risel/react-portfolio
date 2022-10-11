@@ -5,7 +5,7 @@ import {AppWrap} from '../../wrapper'
 import './Header.scss';
 import {images} from '../../constants'
 
-const skillset = [images.js, images.react, images.redux, images.scss];
+const skillset = [images.js, images.react, images.redux, images.scss, images.typescript];
 const scaleVariants = {
   whileInView: {
     scale:[0,1],

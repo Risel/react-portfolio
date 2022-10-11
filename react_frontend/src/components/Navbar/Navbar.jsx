@@ -5,7 +5,6 @@ import {IoMenu,IoClose} from 'react-icons/io5'
 import {motion} from 'framer-motion';
 
 const Navbar = () => {
-
   const [toggle, setToggle] = useState(false);
 
   return (
